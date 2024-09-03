@@ -1,0 +1,26 @@
+body {
+  background-color: black;
+}
+h1 {
+  text-transform: uppercase;
+  font-size: 3em;
+  color: azure;
+}
+
+.Poster {
+  width: 50%;
+  margin-left: 25%;
+  margin-top: 100px;
+  color: azure;
+  font-family: l "libre baskerville";
+  text-align: center;
+}
+
+.motivational-img {
+  border: 5px solid azure;
+  width: 100%;
+}
+p {
+  font-size: medium;
+  font-weight: bold;
+}
